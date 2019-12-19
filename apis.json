@@ -1,0 +1,50 @@
+{
+    "name": "deployd",
+    "description": "Deployd is the simplest way to build APIs. Ever.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11784-deployd.jpg",
+    "tags": [
+        "api service provider",
+        "deployment",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deployd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "deployd",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11784-deployd.jpg",
+            "humanURL": "http:\/\/deployd.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deployd-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/deployd"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/deployd"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/deploydapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/deployd.com\/"
+        }
+    ]
+}
